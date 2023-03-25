@@ -1,0 +1,16 @@
+{
+    "seconds": 0.604303,
+    "status": 200,
+    "reason": "OK",
+    "body": {
+        "employee": "1001"
+    },
+    "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Content-Type": "application/json",
+        "X-Cloud-Trace-Context": "7bd9a5022158d9c04ad3bf384e4fb076",
+        "Date": "Thu, 23 Mar 2023 04:08:06 GMT",
+        "Server": "Google Frontend",
+        "Content-Length": "21"
+    }
+}
